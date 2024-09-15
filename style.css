@@ -26,17 +26,17 @@ body{
     border: none;
 }
 #rock{
-    background: url("/images/rock.png");
+    background: url("./images/rock.png");
     background-position: center;
     background-size: contain;
 }
 #paper{
-    background: url("/images/paper.png");
+    background: url("./images/paper.png");
     background-position: center;
     background-size: contain;
 }
 #scissors{
-    background: url("/images/scissors.jpg");
+    background: url("./images/scissors.jpg");
     background-position: center;
     background-size: contain;
 }
